@@ -1,0 +1,19 @@
+{
+	"name":             "Gravelmelon",
+	"description":      "For @Gravelmelon",
+	"version":          "0.0.0",
+	"manifest_version": 3,
+	"author":           {"email": "markbgmc@gmail.com"},
+
+	"permissions": ["activeTab", "scripting", "storage"],
+	"action": {},
+	"commands": {
+		"_execute_action": {
+			"suggested_key": "Alt+G",
+			"description":   "Activates the extension"
+		}
+	},
+	"background": {
+		"service_worker": "service-worker.js"
+	}
+}
