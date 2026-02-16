@@ -4,7 +4,7 @@ A web browser extension to hide the friend, channel and server list on the [Disc
 ## Installation
 This extension hasn't been published to an extension marketplace yet. (If you want me to publish it, then create an issue, [email me](mailto:markbgmc@gmail.com) or just star the repository.)
 To install the extension on your browser you can take the following steps:
-1. Download the ZIP archive from https://github.com/KramLololo/gravelmelon/archive/refs/heads/main.zip.
+1. Download the ZIP archive from https://github.com/KramLololo/hide-discord-sidebar/archive/refs/heads/main.zip.
 2. Extract it
 3. Visit your browser's extension manager. On most browsers you can type `about://extensions` in your address bar to get there quickly.
 4. Find and press the toggle to enable developer mode on the extension manager.
