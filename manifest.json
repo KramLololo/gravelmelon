@@ -1,7 +1,7 @@
 {
-	"name":             "Gravelmelon",
-	"description":      "For @Gravelmelon",
-	"version":          "0.0.0",
+	"name":             "Hide Discord Sidebar",
+	"description":      "Hides the channel, friend and server list on Discord",
+	"version":          "0.1.0",
 	"manifest_version": 3,
 	"author":           {"email": "markbgmc@gmail.com"},
 
@@ -10,7 +10,7 @@
 	"commands": {
 		"_execute_action": {
 			"suggested_key": "Alt+G",
-			"description":   "Activates the extension"
+			"description":   "Toggles the extension"
 		}
 	},
 	"background": {
