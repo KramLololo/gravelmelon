@@ -28,3 +28,5 @@ Additional use cases:
 - Make room in order to see a text channel or images easily
 - Live streaming
 - Using Discord and another app on the same monitor
+
+A tribute to @Gravelmelon.
