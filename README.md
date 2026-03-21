@@ -26,6 +26,7 @@ Additional use cases:
 - Hide the sidebar to prevent others from seeing your friends or servers
 - Prevent distractions
 - Make room in order to see a text channel or images easily
+- Make room in order to see screen sharing and voice chat
 - Live streaming
 - Using Discord and another app on the same monitor
 
